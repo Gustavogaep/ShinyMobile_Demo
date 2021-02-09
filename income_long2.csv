@@ -1,0 +1,451 @@
+NOMBDEP,FIRST_IDDP,Etario,Cantidad_Esperada,Cantidad_Realizada,Porcentaje,Measure
+AMAZONAS,1,Primera infancia,20,9,45,Internet
+ANCASH,2,Primera infancia,6,5,83.3,Internet
+APURIMAC,3,Primera infancia,17,12,70.6,Internet
+AREQUIPA,4,Primera infancia,3,3,100,Internet
+AYACUCHO,5,Primera infancia,18,9,50,Internet
+CAJAMARCA,6,Primera infancia,5,3,60,Internet
+CALLAO,7,Primera infancia,7,2,28.6,Internet
+CUSCO,8,Primera infancia,16,8,50,Internet
+HUANCAVELICA,9,Primera infancia,18,10,55.6,Internet
+HUANUCO,10,Primera infancia,3,2,66.7,Internet
+ICA,11,Primera infancia,20,11,55,Internet
+JUNIN,12,Primera infancia,13,10,76.9,Internet
+LA LIBERTAD,13,Primera infancia,16,12,75,Internet
+LAMBAYEQUE,14,Primera infancia,9,7,77.8,Internet
+LIMA,15,Primera infancia,7,1,14.3,Internet
+LORETO,16,Primera infancia,14,12,85.7,Internet
+MADRE DE DIOS,17,Primera infancia,15,5,33.3,Internet
+MOQUEGUA,18,Primera infancia,9,6,66.7,Internet
+PASCO,19,Primera infancia,9,4,44.4,Internet
+PIURA,20,Primera infancia,8,2,25,Internet
+PUNO,21,Primera infancia,1,1,100,Internet
+SAN MARTIN,22,Primera infancia,17,11,64.7,Internet
+TACNA,23,Primera infancia,10,7,70,Internet
+TUMBES,24,Primera infancia,1,1,100,Internet
+UCAYALI,25,Primera infancia,5,3,60,Internet
+AMAZONAS,1,Primera infancia,1,1,100,Accesibilidad
+ANCASH,2,Primera infancia,5,2,40,Accesibilidad
+APURIMAC,3,Primera infancia,7,2,28.6,Accesibilidad
+AREQUIPA,4,Primera infancia,2,1,50,Accesibilidad
+AYACUCHO,5,Primera infancia,5,1,20,Accesibilidad
+CAJAMARCA,6,Primera infancia,2,1,50,Accesibilidad
+CALLAO,7,Primera infancia,2,2,100,Accesibilidad
+CUSCO,8,Primera infancia,7,7,100,Accesibilidad
+HUANCAVELICA,9,Primera infancia,9,6,66.7,Accesibilidad
+HUANUCO,10,Primera infancia,3,3,100,Accesibilidad
+ICA,11,Primera infancia,4,1,25,Accesibilidad
+JUNIN,12,Primera infancia,2,1,50,Accesibilidad
+LA LIBERTAD,13,Primera infancia,4,3,75,Accesibilidad
+LAMBAYEQUE,14,Primera infancia,7,5,71.4,Accesibilidad
+LIMA,15,Primera infancia,1,1,100,Accesibilidad
+LORETO,16,Primera infancia,2,2,100,Accesibilidad
+MADRE DE DIOS,17,Primera infancia,6,6,100,Accesibilidad
+MOQUEGUA,18,Primera infancia,8,5,62.5,Accesibilidad
+PASCO,19,Primera infancia,8,6,75,Accesibilidad
+PIURA,20,Primera infancia,4,4,100,Accesibilidad
+PUNO,21,Primera infancia,4,1,25,Accesibilidad
+SAN MARTIN,22,Primera infancia,7,1,14.3,Accesibilidad
+TACNA,23,Primera infancia,6,5,83.3,Accesibilidad
+TUMBES,24,Primera infancia,9,1,11.1,Accesibilidad
+UCAYALI,25,Primera infancia,6,3,50,Accesibilidad
+AMAZONAS,1,Primera infancia,452,257,56.9,Servicios esenciales
+ANCASH,2,Primera infancia,113,19,16.8,Servicios esenciales
+APURIMAC,3,Primera infancia,12,10,83.3,Servicios esenciales
+AREQUIPA,4,Primera infancia,362,92,25.4,Servicios esenciales
+AYACUCHO,5,Primera infancia,220,51,23.2,Servicios esenciales
+CAJAMARCA,6,Primera infancia,136,90,66.2,Servicios esenciales
+CALLAO,7,Primera infancia,85,40,47.1,Servicios esenciales
+CUSCO,8,Primera infancia,37,31,83.8,Servicios esenciales
+HUANCAVELICA,9,Primera infancia,174,55,31.6,Servicios esenciales
+HUANUCO,10,Primera infancia,257,84,32.7,Servicios esenciales
+ICA,11,Primera infancia,117,31,26.5,Servicios esenciales
+JUNIN,12,Primera infancia,150,83,55.3,Servicios esenciales
+LA LIBERTAD,13,Primera infancia,108,47,43.5,Servicios esenciales
+LAMBAYEQUE,14,Primera infancia,43,12,27.9,Servicios esenciales
+LIMA,15,Primera infancia,499,128,25.7,Servicios esenciales
+LORETO,16,Primera infancia,418,182,43.5,Servicios esenciales
+MADRE DE DIOS,17,Primera infancia,205,154,75.1,Servicios esenciales
+MOQUEGUA,18,Primera infancia,74,55,74.3,Servicios esenciales
+PASCO,19,Primera infancia,383,379,99,Servicios esenciales
+PIURA,20,Primera infancia,124,106,85.5,Servicios esenciales
+PUNO,21,Primera infancia,249,206,82.7,Servicios esenciales
+SAN MARTIN,22,Primera infancia,17,2,11.8,Servicios esenciales
+TACNA,23,Primera infancia,102,91,89.2,Servicios esenciales
+TUMBES,24,Primera infancia,188,107,56.9,Servicios esenciales
+UCAYALI,25,Primera infancia,104,40,38.5,Servicios esenciales
+AMAZONAS,1,Niñez,1,1,100,Internet
+ANCASH,2,Niñez,19,19,100,Internet
+APURIMAC,3,Niñez,20,9,45,Internet
+AREQUIPA,4,Niñez,5,4,80,Internet
+AYACUCHO,5,Niñez,1,1,100,Internet
+CAJAMARCA,6,Niñez,12,7,58.3,Internet
+CALLAO,7,Niñez,6,3,50,Internet
+CUSCO,8,Niñez,17,17,100,Internet
+HUANCAVELICA,9,Niñez,3,1,33.3,Internet
+HUANUCO,10,Niñez,2,2,100,Internet
+ICA,11,Niñez,2,2,100,Internet
+JUNIN,12,Niñez,8,7,87.5,Internet
+LA LIBERTAD,13,Niñez,7,2,28.6,Internet
+LAMBAYEQUE,14,Niñez,2,1,50,Internet
+LIMA,15,Niñez,14,13,92.9,Internet
+LORETO,16,Niñez,3,3,100,Internet
+MADRE DE DIOS,17,Niñez,11,1,9.1,Internet
+MOQUEGUA,18,Niñez,15,5,33.3,Internet
+PASCO,19,Niñez,7,2,28.6,Internet
+PIURA,20,Niñez,13,9,69.2,Internet
+PUNO,21,Niñez,9,2,22.2,Internet
+SAN MARTIN,22,Niñez,20,20,100,Internet
+TACNA,23,Niñez,2,1,50,Internet
+TUMBES,24,Niñez,18,11,61.1,Internet
+UCAYALI,25,Niñez,10,9,90,Internet
+AMAZONAS,1,Niñez,10,9,90,Accesibilidad
+ANCASH,2,Niñez,3,1,33.3,Accesibilidad
+APURIMAC,3,Niñez,7,6,85.7,Accesibilidad
+AREQUIPA,4,Niñez,5,3,60,Accesibilidad
+AYACUCHO,5,Niñez,4,3,75,Accesibilidad
+CAJAMARCA,6,Niñez,8,3,37.5,Accesibilidad
+CALLAO,7,Niñez,10,6,60,Accesibilidad
+CUSCO,8,Niñez,9,3,33.3,Accesibilidad
+HUANCAVELICA,9,Niñez,5,3,60,Accesibilidad
+HUANUCO,10,Niñez,1,1,100,Accesibilidad
+ICA,11,Niñez,7,5,71.4,Accesibilidad
+JUNIN,12,Niñez,9,2,22.2,Accesibilidad
+LA LIBERTAD,13,Niñez,1,1,100,Accesibilidad
+LAMBAYEQUE,14,Niñez,1,1,100,Accesibilidad
+LIMA,15,Niñez,6,1,16.7,Accesibilidad
+LORETO,16,Niñez,6,6,100,Accesibilidad
+MADRE DE DIOS,17,Niñez,7,4,57.1,Accesibilidad
+MOQUEGUA,18,Niñez,7,2,28.6,Accesibilidad
+PASCO,19,Niñez,9,9,100,Accesibilidad
+PIURA,20,Niñez,4,2,50,Accesibilidad
+PUNO,21,Niñez,6,3,50,Accesibilidad
+SAN MARTIN,22,Niñez,4,4,100,Accesibilidad
+TACNA,23,Niñez,7,4,57.1,Accesibilidad
+TUMBES,24,Niñez,3,2,66.7,Accesibilidad
+UCAYALI,25,Niñez,10,10,100,Accesibilidad
+AMAZONAS,1,Niñez,118,111,94.1,Servicios esenciales
+ANCASH,2,Niñez,445,202,45.4,Servicios esenciales
+APURIMAC,3,Niñez,300,99,33,Servicios esenciales
+AREQUIPA,4,Niñez,56,48,85.7,Servicios esenciales
+AYACUCHO,5,Niñez,412,241,58.5,Servicios esenciales
+CAJAMARCA,6,Niñez,113,40,35.4,Servicios esenciales
+CALLAO,7,Niñez,226,158,69.9,Servicios esenciales
+CUSCO,8,Niñez,124,103,83.1,Servicios esenciales
+HUANCAVELICA,9,Niñez,313,132,42.2,Servicios esenciales
+HUANUCO,10,Niñez,71,44,62,Servicios esenciales
+ICA,11,Niñez,248,241,97.2,Servicios esenciales
+JUNIN,12,Niñez,71,64,90.1,Servicios esenciales
+LA LIBERTAD,13,Niñez,364,331,90.9,Servicios esenciales
+LAMBAYEQUE,14,Niñez,271,149,55,Servicios esenciales
+LIMA,15,Niñez,37,1,2.7,Servicios esenciales
+LORETO,16,Niñez,11,9,81.8,Servicios esenciales
+MADRE DE DIOS,17,Niñez,363,228,62.8,Servicios esenciales
+MOQUEGUA,18,Niñez,379,361,95.3,Servicios esenciales
+PASCO,19,Niñez,221,213,96.4,Servicios esenciales
+PIURA,20,Niñez,357,62,17.4,Servicios esenciales
+PUNO,21,Niñez,490,96,19.6,Servicios esenciales
+SAN MARTIN,22,Niñez,30,30,100,Servicios esenciales
+TACNA,23,Niñez,214,132,61.7,Servicios esenciales
+TUMBES,24,Niñez,354,284,80.2,Servicios esenciales
+UCAYALI,25,Niñez,228,34,14.9,Servicios esenciales
+AMAZONAS,1,Adolescencia,1,1,100,Internet
+ANCASH,2,Adolescencia,16,16,100,Internet
+APURIMAC,3,Adolescencia,14,6,42.9,Internet
+AREQUIPA,4,Adolescencia,12,3,25,Internet
+AYACUCHO,5,Adolescencia,6,6,100,Internet
+CAJAMARCA,6,Adolescencia,14,4,28.6,Internet
+CALLAO,7,Adolescencia,5,2,40,Internet
+CUSCO,8,Adolescencia,13,13,100,Internet
+HUANCAVELICA,9,Adolescencia,2,1,50,Internet
+HUANUCO,10,Adolescencia,14,1,7.1,Internet
+ICA,11,Adolescencia,19,13,68.4,Internet
+JUNIN,12,Adolescencia,4,1,25,Internet
+LA LIBERTAD,13,Adolescencia,16,5,31.3,Internet
+LAMBAYEQUE,14,Adolescencia,10,8,80,Internet
+LIMA,15,Adolescencia,9,3,33.3,Internet
+LORETO,16,Adolescencia,5,4,80,Internet
+MADRE DE DIOS,17,Adolescencia,8,3,37.5,Internet
+MOQUEGUA,18,Adolescencia,17,16,94.1,Internet
+PASCO,19,Adolescencia,14,10,71.4,Internet
+PIURA,20,Adolescencia,19,4,21.1,Internet
+PUNO,21,Adolescencia,5,5,100,Internet
+SAN MARTIN,22,Adolescencia,11,2,18.2,Internet
+TACNA,23,Adolescencia,5,3,60,Internet
+TUMBES,24,Adolescencia,16,6,37.5,Internet
+UCAYALI,25,Adolescencia,5,2,40,Internet
+AMAZONAS,1,Adolescencia,6,2,33.3,Accesibilidad
+ANCASH,2,Adolescencia,2,1,50,Accesibilidad
+APURIMAC,3,Adolescencia,10,10,100,Accesibilidad
+AREQUIPA,4,Adolescencia,4,4,100,Accesibilidad
+AYACUCHO,5,Adolescencia,2,2,100,Accesibilidad
+CAJAMARCA,6,Adolescencia,4,2,50,Accesibilidad
+CALLAO,7,Adolescencia,3,1,33.3,Accesibilidad
+CUSCO,8,Adolescencia,7,7,100,Accesibilidad
+HUANCAVELICA,9,Adolescencia,3,3,100,Accesibilidad
+HUANUCO,10,Adolescencia,7,5,71.4,Accesibilidad
+ICA,11,Adolescencia,4,1,25,Accesibilidad
+JUNIN,12,Adolescencia,6,2,33.3,Accesibilidad
+LA LIBERTAD,13,Adolescencia,4,2,50,Accesibilidad
+LAMBAYEQUE,14,Adolescencia,3,1,33.3,Accesibilidad
+LIMA,15,Adolescencia,2,1,50,Accesibilidad
+LORETO,16,Adolescencia,4,3,75,Accesibilidad
+MADRE DE DIOS,17,Adolescencia,5,5,100,Accesibilidad
+MOQUEGUA,18,Adolescencia,8,6,75,Accesibilidad
+PASCO,19,Adolescencia,4,1,25,Accesibilidad
+PIURA,20,Adolescencia,1,1,100,Accesibilidad
+PUNO,21,Adolescencia,10,5,50,Accesibilidad
+SAN MARTIN,22,Adolescencia,2,1,50,Accesibilidad
+TACNA,23,Adolescencia,7,2,28.6,Accesibilidad
+TUMBES,24,Adolescencia,2,2,100,Accesibilidad
+UCAYALI,25,Adolescencia,10,3,30,Accesibilidad
+AMAZONAS,1,Adolescencia,97,86,88.7,Servicios esenciales
+ANCASH,2,Adolescencia,256,184,71.9,Servicios esenciales
+APURIMAC,3,Adolescencia,129,90,69.8,Servicios esenciales
+AREQUIPA,4,Adolescencia,8,2,25,Servicios esenciales
+AYACUCHO,5,Adolescencia,51,16,31.4,Servicios esenciales
+CAJAMARCA,6,Adolescencia,96,88,91.7,Servicios esenciales
+CALLAO,7,Adolescencia,250,83,33.2,Servicios esenciales
+CUSCO,8,Adolescencia,163,15,9.2,Servicios esenciales
+HUANCAVELICA,9,Adolescencia,419,340,81.1,Servicios esenciales
+HUANUCO,10,Adolescencia,149,40,26.8,Servicios esenciales
+ICA,11,Adolescencia,292,39,13.4,Servicios esenciales
+JUNIN,12,Adolescencia,104,57,54.8,Servicios esenciales
+LA LIBERTAD,13,Adolescencia,26,18,69.2,Servicios esenciales
+LAMBAYEQUE,14,Adolescencia,390,286,73.3,Servicios esenciales
+LIMA,15,Adolescencia,234,31,13.2,Servicios esenciales
+LORETO,16,Adolescencia,254,127,50,Servicios esenciales
+MADRE DE DIOS,17,Adolescencia,136,54,39.7,Servicios esenciales
+MOQUEGUA,18,Adolescencia,348,305,87.6,Servicios esenciales
+PASCO,19,Adolescencia,1,1,100,Servicios esenciales
+PIURA,20,Adolescencia,218,203,93.1,Servicios esenciales
+PUNO,21,Adolescencia,436,72,16.5,Servicios esenciales
+SAN MARTIN,22,Adolescencia,162,20,12.3,Servicios esenciales
+TACNA,23,Adolescencia,81,31,38.3,Servicios esenciales
+TUMBES,24,Adolescencia,346,163,47.1,Servicios esenciales
+UCAYALI,25,Adolescencia,219,108,49.3,Servicios esenciales
+AMAZONAS,1,Juventud,9,3,33.3,Internet
+ANCASH,2,Juventud,4,2,50,Internet
+APURIMAC,3,Juventud,5,5,100,Internet
+AREQUIPA,4,Juventud,13,5,38.5,Internet
+AYACUCHO,5,Juventud,7,3,42.9,Internet
+CAJAMARCA,6,Juventud,2,1,50,Internet
+CALLAO,7,Juventud,18,10,55.6,Internet
+CUSCO,8,Juventud,10,2,20,Internet
+HUANCAVELICA,9,Juventud,2,2,100,Internet
+HUANUCO,10,Juventud,20,10,50,Internet
+ICA,11,Juventud,10,4,40,Internet
+JUNIN,12,Juventud,15,11,73.3,Internet
+LA LIBERTAD,13,Juventud,10,1,10,Internet
+LAMBAYEQUE,14,Juventud,13,8,61.5,Internet
+LIMA,15,Juventud,18,4,22.2,Internet
+LORETO,16,Juventud,19,14,73.7,Internet
+MADRE DE DIOS,17,Juventud,9,5,55.6,Internet
+MOQUEGUA,18,Juventud,17,9,52.9,Internet
+PASCO,19,Juventud,1,1,100,Internet
+PIURA,20,Juventud,6,4,66.7,Internet
+PUNO,21,Juventud,17,10,58.8,Internet
+SAN MARTIN,22,Juventud,4,4,100,Internet
+TACNA,23,Juventud,5,2,40,Internet
+TUMBES,24,Juventud,11,6,54.5,Internet
+UCAYALI,25,Juventud,12,12,100,Internet
+AMAZONAS,1,Juventud,5,5,100,Accesibilidad
+ANCASH,2,Juventud,7,5,71.4,Accesibilidad
+APURIMAC,3,Juventud,6,2,33.3,Accesibilidad
+AREQUIPA,4,Juventud,2,1,50,Accesibilidad
+AYACUCHO,5,Juventud,2,2,100,Accesibilidad
+CAJAMARCA,6,Juventud,5,1,20,Accesibilidad
+CALLAO,7,Juventud,3,1,33.3,Accesibilidad
+CUSCO,8,Juventud,3,1,33.3,Accesibilidad
+HUANCAVELICA,9,Juventud,3,3,100,Accesibilidad
+HUANUCO,10,Juventud,3,2,66.7,Accesibilidad
+ICA,11,Juventud,6,2,33.3,Accesibilidad
+JUNIN,12,Juventud,8,7,87.5,Accesibilidad
+LA LIBERTAD,13,Juventud,4,4,100,Accesibilidad
+LAMBAYEQUE,14,Juventud,2,1,50,Accesibilidad
+LIMA,15,Juventud,3,3,100,Accesibilidad
+LORETO,16,Juventud,10,8,80,Accesibilidad
+MADRE DE DIOS,17,Juventud,1,1,100,Accesibilidad
+MOQUEGUA,18,Juventud,5,5,100,Accesibilidad
+PASCO,19,Juventud,9,9,100,Accesibilidad
+PIURA,20,Juventud,5,2,40,Accesibilidad
+PUNO,21,Juventud,5,1,20,Accesibilidad
+SAN MARTIN,22,Juventud,6,4,66.7,Accesibilidad
+TACNA,23,Juventud,4,4,100,Accesibilidad
+TUMBES,24,Juventud,8,1,12.5,Accesibilidad
+UCAYALI,25,Juventud,2,1,50,Accesibilidad
+AMAZONAS,1,Juventud,391,194,49.6,Servicios esenciales
+ANCASH,2,Juventud,488,143,29.3,Servicios esenciales
+APURIMAC,3,Juventud,368,360,97.8,Servicios esenciales
+AREQUIPA,4,Juventud,373,247,66.2,Servicios esenciales
+AYACUCHO,5,Juventud,175,143,81.7,Servicios esenciales
+CAJAMARCA,6,Juventud,106,6,5.7,Servicios esenciales
+CALLAO,7,Juventud,175,67,38.3,Servicios esenciales
+CUSCO,8,Juventud,130,13,10,Servicios esenciales
+HUANCAVELICA,9,Juventud,164,148,90.2,Servicios esenciales
+HUANUCO,10,Juventud,362,242,66.9,Servicios esenciales
+ICA,11,Juventud,364,335,92,Servicios esenciales
+JUNIN,12,Juventud,492,135,27.4,Servicios esenciales
+LA LIBERTAD,13,Juventud,331,16,4.8,Servicios esenciales
+LAMBAYEQUE,14,Juventud,77,53,68.8,Servicios esenciales
+LIMA,15,Juventud,217,27,12.4,Servicios esenciales
+LORETO,16,Juventud,155,149,96.1,Servicios esenciales
+MADRE DE DIOS,17,Juventud,180,140,77.8,Servicios esenciales
+MOQUEGUA,18,Juventud,409,299,73.1,Servicios esenciales
+PASCO,19,Juventud,491,468,95.3,Servicios esenciales
+PIURA,20,Juventud,289,223,77.2,Servicios esenciales
+PUNO,21,Juventud,358,104,29.1,Servicios esenciales
+SAN MARTIN,22,Juventud,18,13,72.2,Servicios esenciales
+TACNA,23,Juventud,284,152,53.5,Servicios esenciales
+TUMBES,24,Juventud,218,173,79.4,Servicios esenciales
+UCAYALI,25,Juventud,126,28,22.2,Servicios esenciales
+AMAZONAS,1,Adultez,11,6,54.5,Internet
+ANCASH,2,Adultez,10,10,100,Internet
+APURIMAC,3,Adultez,18,11,61.1,Internet
+AREQUIPA,4,Adultez,9,7,77.8,Internet
+AYACUCHO,5,Adultez,16,8,50,Internet
+CAJAMARCA,6,Adultez,5,3,60,Internet
+CALLAO,7,Adultez,9,9,100,Internet
+CUSCO,8,Adultez,16,2,12.5,Internet
+HUANCAVELICA,9,Adultez,4,2,50,Internet
+HUANUCO,10,Adultez,3,3,100,Internet
+ICA,11,Adultez,8,1,12.5,Internet
+JUNIN,12,Adultez,5,4,80,Internet
+LA LIBERTAD,13,Adultez,15,10,66.7,Internet
+LAMBAYEQUE,14,Adultez,5,5,100,Internet
+LIMA,15,Adultez,16,15,93.8,Internet
+LORETO,16,Adultez,5,1,20,Internet
+MADRE DE DIOS,17,Adultez,6,2,33.3,Internet
+MOQUEGUA,18,Adultez,19,13,68.4,Internet
+PASCO,19,Adultez,4,3,75,Internet
+PIURA,20,Adultez,19,13,68.4,Internet
+PUNO,21,Adultez,17,13,76.5,Internet
+SAN MARTIN,22,Adultez,1,1,100,Internet
+TACNA,23,Adultez,1,1,100,Internet
+TUMBES,24,Adultez,7,6,85.7,Internet
+UCAYALI,25,Adultez,1,1,100,Internet
+AMAZONAS,1,Adultez,6,3,50,Accesibilidad
+ANCASH,2,Adultez,8,8,100,Accesibilidad
+APURIMAC,3,Adultez,7,5,71.4,Accesibilidad
+AREQUIPA,4,Adultez,9,9,100,Accesibilidad
+AYACUCHO,5,Adultez,5,1,20,Accesibilidad
+CAJAMARCA,6,Adultez,5,4,80,Accesibilidad
+CALLAO,7,Adultez,6,3,50,Accesibilidad
+CUSCO,8,Adultez,5,2,40,Accesibilidad
+HUANCAVELICA,9,Adultez,8,2,25,Accesibilidad
+HUANUCO,10,Adultez,4,1,25,Accesibilidad
+ICA,11,Adultez,7,5,71.4,Accesibilidad
+JUNIN,12,Adultez,3,3,100,Accesibilidad
+LA LIBERTAD,13,Adultez,7,7,100,Accesibilidad
+LAMBAYEQUE,14,Adultez,10,7,70,Accesibilidad
+LIMA,15,Adultez,5,1,20,Accesibilidad
+LORETO,16,Adultez,9,4,44.4,Accesibilidad
+MADRE DE DIOS,17,Adultez,7,5,71.4,Accesibilidad
+MOQUEGUA,18,Adultez,4,4,100,Accesibilidad
+PASCO,19,Adultez,3,3,100,Accesibilidad
+PIURA,20,Adultez,7,2,28.6,Accesibilidad
+PUNO,21,Adultez,3,3,100,Accesibilidad
+SAN MARTIN,22,Adultez,7,1,14.3,Accesibilidad
+TACNA,23,Adultez,1,1,100,Accesibilidad
+TUMBES,24,Adultez,6,4,66.7,Accesibilidad
+UCAYALI,25,Adultez,8,7,87.5,Accesibilidad
+AMAZONAS,1,Adultez,439,152,34.6,Servicios esenciales
+ANCASH,2,Adultez,486,312,64.2,Servicios esenciales
+APURIMAC,3,Adultez,72,19,26.4,Servicios esenciales
+AREQUIPA,4,Adultez,435,376,86.4,Servicios esenciales
+AYACUCHO,5,Adultez,216,203,94,Servicios esenciales
+CAJAMARCA,6,Adultez,36,2,5.6,Servicios esenciales
+CALLAO,7,Adultez,89,37,41.6,Servicios esenciales
+CUSCO,8,Adultez,217,44,20.3,Servicios esenciales
+HUANCAVELICA,9,Adultez,311,39,12.5,Servicios esenciales
+HUANUCO,10,Adultez,85,35,41.2,Servicios esenciales
+ICA,11,Adultez,152,11,7.2,Servicios esenciales
+JUNIN,12,Adultez,199,192,96.5,Servicios esenciales
+LA LIBERTAD,13,Adultez,61,17,27.9,Servicios esenciales
+LAMBAYEQUE,14,Adultez,396,23,5.8,Servicios esenciales
+LIMA,15,Adultez,158,93,58.9,Servicios esenciales
+LORETO,16,Adultez,338,217,64.2,Servicios esenciales
+MADRE DE DIOS,17,Adultez,93,40,43,Servicios esenciales
+MOQUEGUA,18,Adultez,16,2,12.5,Servicios esenciales
+PASCO,19,Adultez,478,196,41,Servicios esenciales
+PIURA,20,Adultez,208,9,4.3,Servicios esenciales
+PUNO,21,Adultez,443,313,70.7,Servicios esenciales
+SAN MARTIN,22,Adultez,480,435,90.6,Servicios esenciales
+TACNA,23,Adultez,113,88,77.9,Servicios esenciales
+TUMBES,24,Adultez,150,83,55.3,Servicios esenciales
+UCAYALI,25,Adultez,240,81,33.8,Servicios esenciales
+AMAZONAS,1,Adultez mayor,7,3,42.9,Internet
+ANCASH,2,Adultez mayor,9,4,44.4,Internet
+APURIMAC,3,Adultez mayor,16,5,31.3,Internet
+AREQUIPA,4,Adultez mayor,19,18,94.7,Internet
+AYACUCHO,5,Adultez mayor,4,3,75,Internet
+CAJAMARCA,6,Adultez mayor,20,6,30,Internet
+CALLAO,7,Adultez mayor,13,10,76.9,Internet
+CUSCO,8,Adultez mayor,12,3,25,Internet
+HUANCAVELICA,9,Adultez mayor,5,1,20,Internet
+HUANUCO,10,Adultez mayor,8,3,37.5,Internet
+ICA,11,Adultez mayor,11,9,81.8,Internet
+JUNIN,12,Adultez mayor,3,2,66.7,Internet
+LA LIBERTAD,13,Adultez mayor,11,9,81.8,Internet
+LAMBAYEQUE,14,Adultez mayor,20,14,70,Internet
+LIMA,15,Adultez mayor,13,1,7.7,Internet
+LORETO,16,Adultez mayor,12,1,8.3,Internet
+MADRE DE DIOS,17,Adultez mayor,15,15,100,Internet
+MOQUEGUA,18,Adultez mayor,1,1,100,Internet
+PASCO,19,Adultez mayor,9,1,11.1,Internet
+PIURA,20,Adultez mayor,7,2,28.6,Internet
+PUNO,21,Adultez mayor,17,1,5.9,Internet
+SAN MARTIN,22,Adultez mayor,2,2,100,Internet
+TACNA,23,Adultez mayor,17,17,100,Internet
+TUMBES,24,Adultez mayor,5,1,20,Internet
+UCAYALI,25,Adultez mayor,3,3,100,Internet
+AMAZONAS,1,Adultez mayor,4,1,25,Accesibilidad
+ANCASH,2,Adultez mayor,1,1,100,Accesibilidad
+APURIMAC,3,Adultez mayor,6,2,33.3,Accesibilidad
+AREQUIPA,4,Adultez mayor,9,4,44.4,Accesibilidad
+AYACUCHO,5,Adultez mayor,8,1,12.5,Accesibilidad
+CAJAMARCA,6,Adultez mayor,2,2,100,Accesibilidad
+CALLAO,7,Adultez mayor,3,2,66.7,Accesibilidad
+CUSCO,8,Adultez mayor,1,1,100,Accesibilidad
+HUANCAVELICA,9,Adultez mayor,7,1,14.3,Accesibilidad
+HUANUCO,10,Adultez mayor,7,4,57.1,Accesibilidad
+ICA,11,Adultez mayor,1,1,100,Accesibilidad
+JUNIN,12,Adultez mayor,9,9,100,Accesibilidad
+LA LIBERTAD,13,Adultez mayor,1,1,100,Accesibilidad
+LAMBAYEQUE,14,Adultez mayor,9,2,22.2,Accesibilidad
+LIMA,15,Adultez mayor,4,3,75,Accesibilidad
+LORETO,16,Adultez mayor,3,3,100,Accesibilidad
+MADRE DE DIOS,17,Adultez mayor,3,3,100,Accesibilidad
+MOQUEGUA,18,Adultez mayor,2,1,50,Accesibilidad
+PASCO,19,Adultez mayor,8,3,37.5,Accesibilidad
+PIURA,20,Adultez mayor,8,5,62.5,Accesibilidad
+PUNO,21,Adultez mayor,7,5,71.4,Accesibilidad
+SAN MARTIN,22,Adultez mayor,7,2,28.6,Accesibilidad
+TACNA,23,Adultez mayor,5,3,60,Accesibilidad
+TUMBES,24,Adultez mayor,4,2,50,Accesibilidad
+UCAYALI,25,Adultez mayor,5,2,40,Accesibilidad
+AMAZONAS,1,Adultez mayor,103,20,19.4,Servicios esenciales
+ANCASH,2,Adultez mayor,305,185,60.7,Servicios esenciales
+APURIMAC,3,Adultez mayor,104,26,25,Servicios esenciales
+AREQUIPA,4,Adultez mayor,34,31,91.2,Servicios esenciales
+AYACUCHO,5,Adultez mayor,253,242,95.7,Servicios esenciales
+CAJAMARCA,6,Adultez mayor,345,154,44.6,Servicios esenciales
+CALLAO,7,Adultez mayor,215,187,87,Servicios esenciales
+CUSCO,8,Adultez mayor,325,317,97.5,Servicios esenciales
+HUANCAVELICA,9,Adultez mayor,150,70,46.7,Servicios esenciales
+HUANUCO,10,Adultez mayor,408,47,11.5,Servicios esenciales
+ICA,11,Adultez mayor,420,88,21,Servicios esenciales
+JUNIN,12,Adultez mayor,470,128,27.2,Servicios esenciales
+LA LIBERTAD,13,Adultez mayor,275,124,45.1,Servicios esenciales
+LAMBAYEQUE,14,Adultez mayor,192,161,83.9,Servicios esenciales
+LIMA,15,Adultez mayor,124,78,62.9,Servicios esenciales
+LORETO,16,Adultez mayor,105,66,62.9,Servicios esenciales
+MADRE DE DIOS,17,Adultez mayor,94,22,23.4,Servicios esenciales
+MOQUEGUA,18,Adultez mayor,426,246,57.7,Servicios esenciales
+PASCO,19,Adultez mayor,343,242,70.6,Servicios esenciales
+PIURA,20,Adultez mayor,211,22,10.4,Servicios esenciales
+PUNO,21,Adultez mayor,293,266,90.8,Servicios esenciales
+SAN MARTIN,22,Adultez mayor,378,2,0.5,Servicios esenciales
+TACNA,23,Adultez mayor,426,151,35.4,Servicios esenciales
+TUMBES,24,Adultez mayor,331,264,79.8,Servicios esenciales
+UCAYALI,25,Adultez mayor,286,249,87.1,Servicios esenciales
